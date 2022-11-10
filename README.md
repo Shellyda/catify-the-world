@@ -119,7 +119,7 @@
 1. Clone repo
 
 ```sh
-  git clone https://github.com/lucena564/Projeto-IP---Python.git
+  git clone https://github.com/Shellyda/catify-the-world.git
 ```
 
 2. Install the dependencies
