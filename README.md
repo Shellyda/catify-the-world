@@ -23,7 +23,7 @@
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#team-division">Team division</a></li>
     <li><a href="#built-with">Built with</a></li>
-        <li><a href="#files">Files structure</a></li>
+        <li><a href="#files-structure">Files structure</a></li>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#play">How to run</a></li>
         <li><a href="#about-the-process">About the process</a></li>
@@ -84,9 +84,7 @@
 #### Why we used <b>OS</b> as library
 - We use the <b>OS</b> library only to help access the images and audios directory with the <i>path</i> function.
 
-
-
-## Files
+## Files structure
 
 /assets
 
