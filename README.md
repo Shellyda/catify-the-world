@@ -10,7 +10,7 @@
   <p align="center">
     CIn UFPE | October 2022 | Introduction to programming (IP)
     <br />
-    <a href="https://github.com/lucena564/Projeto-IP---Python"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shellyda/pygame-catify-the-world"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -119,7 +119,7 @@
 1. Clone repo
 
 ```sh
-  git clone https://github.com/Shellyda/catify-the-world.git
+  git clone https://github.com/Shellyda/pygame-catify-the-world.git
 ```
 
 2. Install the dependencies
